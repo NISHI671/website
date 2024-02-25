@@ -1,0 +1,72 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.banner-container{
+    background-color:rgb(106, 196, 238);
+
+}
+.banner-column{
+    background-color:rgb(180, 180, 252);
+}
+.navbar-container{
+top:0;
+background-color: rgb(186, 134, 235);
+position:sticky;
+z-index: 2;
+}
+.about-container{
+    background-color:rgb(173, 241, 224);
+
+}
+.education-container{
+    background-color: rgb(199, 255, 115);
+}
+
+.bg-greentype{
+    background-color: rgb(39, 238, 39);
+}
+
+.bg-greentype:hover{
+    color: black !important;
+}
+.greentype-color{
+    color:rgb(39, 238, 39);
+}
+.circle{
+    background-color: rgb(39, 238, 39);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: aquamarine;
+
+}
+.form-container{
+ background-color: rgb(112, 219, 219);
+}
+.bummy-box{
+    font-size: 72px;
+}
+.inner-form{
+    background-color: rgb(112, 219, 219) ;
+}
+.footer{
+    background-color: rgb(2, 92, 77);
+}
+.circle1{
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:black;
+    font-size: 40px;
+    text-align: center;
+    color:white; 
+
+}
+
+.circle1:hover{
+  background-color:green;
+
+}
